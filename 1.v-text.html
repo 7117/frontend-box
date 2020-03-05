@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <div id="app">
+        <p>
+            {{message+'!!!!'}}
+            {{info}}
+        </p>
+        <p v-text="message+'!!!'">
+            深圳城市
+        </p>
+        <p>
+            {{message+"message"}}
+        </p>
+        <p v-text="message+'message'">
+            message
+        </p>
+    </div>
+</body>
+</html>
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script>
+    var app = new Vue({
+        el:"#app",
+        data:{
+            message:"程序员",
+            info:"前端与移动"
+        }
+    })
+</script>
