@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/index.css"/>
+</head>
+<body>
+<div id="mask">
+    <div class="center">
+
+        <img v-bind:src="imgArr[index]">
+
+        <a href="javascript:void(0)" class="left" v-on:click="prev" v-show="index!=0">
+            <img src="./images/prev.png">
+        </a>
+
+        <a href="javascript:void(0)" class="right" v-on:click="next" v-show="index<imgArr.length-1">
+            <img src="./images/next.png">
+        </a>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script>
+    var app = new Vue({
+        el: "#mask",
+        data: {
+            imgArr: [
+                "./images/00.jpg",
+                "./images/01.jpg",
+                "./images/00.jpg"
+            ],
+            index: 0
+        },
+        methods: {
+            prev:function(){
+                this.index--;
+            },
+            next:function () {
+                this.index++;
+            }
+
+        }
+    })
+</script>
+
+
+</body>
+</html>
+
