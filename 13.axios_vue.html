@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="app">
+    <input type="button" value="anniu" @click="click">
+    <p>{{joke}}</p>
+    <p v-text="joke"></p>
+    <p v-html="joke"></p>
+</div>
+</body>
+</html>
+
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script>
+
+    /*
+          接口:随机获取一条笑话
+          请求地址:https://autumnfish.cn/api/joke
+          请求方法:get
+          请求参数:无
+          响应内容:随机笑话
+      */
+
+    var app = new Vue({
+        el: "#app",
+        data: {
+            joke:"12345"
+        },
+        methods: {
+            click: function () {
+                var that=this;
+                axios.get("https://autumnfish.cn/api/joke").
+                then(function (response) {
+                    that.joke=response.data;
+                }, function (err) {
+
+                })
+            }
+        }
+    })
+</script>

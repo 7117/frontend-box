@@ -35,7 +35,7 @@
             响应内容:注册成功或失败
         */
     document.querySelector(".post").onclick = function () {
-        axios.post("https://autumnfish.cn/api/user/reg",{username:"jack"}).then(function (response) {
+        axios.post("https://autumnfish.cn/api/user/reg", {username: "jack"}).then(function (response) {
             console.log(response);
         }, function (err) {
             console.log(err);
