@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+    <title>天知道</title>
+    <link rel="stylesheet" href="素材/demo-天知道/css/reset.css"/>
+    <link rel="stylesheet" href="素材/demo-天知道/css/index.css"/>
+</head>
+
+<body>
+<div class="wrap" id="app">
+    <div class="search_form">
+        <div class="logo"><img src="素材/demo-天知道/img/logo.png" alt="logo"/></div>
+        <div class="form_group">
+            <input type="text" class="input_txt" placeholder="请输入查询的天气" @keyup.enter="keyup" v-model="city">
+            <button class="input_sub" @click="keyup">
+                搜 索
+            </button>
+        </div>
+        <div class="hotkey">
+            <a href="javascript:;" v-for="(item,index) in hotCitys" @click="change(item)">{{item}}</a>
+        </div>
+    </div>
+    <ul class="weather_list">
+        <li v-for="(item,index) in weather">
+            <div class="info_type"><span class="iconfont">{{item.type}}</span></div>
+            <div class="info_temp">
+                <b>{{item.high}}</b>
+                ~
+                <b>{{item.low}}</b>
+            </div>
+            <div class="info_date"><span>{{item.date}}</span></div>
+        </li>
+    </ul>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script>
+    new Vue({
+        el: "#app",
+        data: {
+            city: "武汉",
+            weather: [],
+            hotCitys: ["北京", "上海", "广州", "深圳"]
+        },
+        methods: {
+            keyup: function () {
+                var that = this;
+                axios.get('http://wthrcdn.etouch.cn/weather_mini?city=' + this.city).then(function (response) {
+                    console.log(response.data.data.forecast);
+                    that.weather = response.data.data.forecast;
+                }).catch(function (err) {
+
+                })
+            },
+            change:function(city){
+                this.city=city;
+                this.keyup();
+            }
+        }
+    });
+</script>
+</body>
+
+</html>
