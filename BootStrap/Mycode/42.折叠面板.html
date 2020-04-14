@@ -31,9 +31,28 @@
 <div class="container">
     <button type="button" class="btn btn-default" data-toggle="collapse" data-target="#shows">折叠</button>
     <div id="shows" class="collapse in ">
-        <div class="well">
-            显示的内容
-        </div>
+       <div class="panel-group">
+            <div class="panel-default panel">
+
+                <div class=" panel-heading" data-target="#aaa" data-toggle="collapse">
+                    <h4 class="panel-title">
+                        <a href="#">栏目管理 </a>
+                    </h4>
+                </div>
+
+                <div class="collapse panel-collapse" id="aaa">
+                    <div class="panel-body">
+                        <ol>
+                            <li><a href="#">增加文章</a></li>
+                            <li><a href="#">增加文章</a></li>
+                            <li><a href="#">增加文章</a></li>
+                            <li><a href="#">增加文章</a></li>
+                        </ol>
+                    </div>
+                </div>
+
+            </div>
+       </div>
     </div>
 </div>
 </body>
