@@ -8,13 +8,16 @@
 <div id="app">
     <button v-on:click="add">添加数据</button>
     <button v-on:click="del">删除数据</button>
-    <!-- 使用1   -->
+    
+	<!-- 使用1   -->
     <ul>
         <li v-for="item in arr">{{item+'task'}}</li>
     </ul>
+	
     <!-- 使用2   -->
     <ul>
-        <li v-for="(item,index) in obj">{{index}}--{{item.name}}</li>
+		<!-- 前面是指value  后面是index -->
+        <li v-for="(item,index) in obj">{{index}}--{{item.name}}-----{{item}}</li>
     </ul>
 </div>
 </body>
@@ -34,7 +37,7 @@
         },
         methods: {
             add: function () {
-                this.obj .push({name:"sunt"})
+                this.obj.push({name:"sunt"})
             },
             del:function () {
                 this.obj.shift()
