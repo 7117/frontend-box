@@ -6,8 +6,8 @@
 </head>
 <body>
 <div id="app">
-    <input type="button" v-on:click="click(666,777)" value="click">
-    <input type="text"   v-on:keyup.enter="enter" value="enter">
+    <input type="button" v-on:click="click(666,777)" value="请点击">
+    <input type="text"   v-on:keyup.enter="enter" value="青點擊ENTER">
 </div>
 </body>
 </html>
@@ -20,12 +20,11 @@
         data: {},
         methods: {
             click:function (p1,p2) {
-                alert("click");
                 alert(p1);
                 alert(p2);
             },
             enter:function () {
-                alert("enter");
+                alert("弹出的信息");
             }
         }
     })

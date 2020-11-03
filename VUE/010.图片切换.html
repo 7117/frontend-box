@@ -13,10 +13,12 @@
 
         <img v-bind:src="imgArr[index]">
 
+<!-- 左邊的按鈕 -->
         <a href="javascript:void(0)" class="left" v-on:click="prev" v-show="index!=0">
             <img src="素材/demo-图片切换/images/prev.png">
         </a>
 
+<!-- 右邊的按鈕 -->
         <a href="javascript:void(0)" class="right" v-on:click="next" v-show="index<imgArr.length-1">
             <img src="素材/demo-图片切换/images/next.png">
         </a>
