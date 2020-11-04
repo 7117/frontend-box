@@ -8,8 +8,11 @@
 <div id="app">
     <input type="button" value="anniu" @click="click">
     <p>{{joke}}</p>
+	<p v-bind:text="joke"></p>
     <p v-text="joke"></p>
     <p v-html="joke"></p>
+	<span>aaaa</span>
+	
 </div>
 </body>
 </html>

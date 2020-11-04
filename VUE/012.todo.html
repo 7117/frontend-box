@@ -15,13 +15,12 @@
         <!-- 输入框 -->
         <header class="header">
             <h1>TODO</h1>
-            <input v-model="inputValue" @keyup.enter="add" placeholder="请输入任务" autofocus="autofocus" autocomplete="off"
-                   class="new-todo" />
+            <input v-model="inputValue" @keyup.enter="add" placeholder="请输入任务" autofocus="autofocus" autocomplete="off" class="new-todo" />
         </header>
         <!-- 列表区域 -->
         <section class="main">
             <ul class="todo-list">
-                <!--每一个的条目                -->
+                <!--每一个的条目-->
                 <li class="todo" v-for="(item,index) in list">
                     <div class="view">
                         <span class="index">{{ index+1 }}.</span>
