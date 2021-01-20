@@ -1,0 +1,25 @@
+.a,
+.b,
+.c,
+.d {
+  border: 1px solid red;
+}
+.a .a,
+.a .b,
+.a .c,
+.a .d,
+.b .a,
+.b .b,
+.b .c,
+.b .d,
+.c .a,
+.c .b,
+.c .c,
+.c .d,
+.d .a,
+.d .b,
+.d .c,
+.d .d {
+  height: 100px;
+  width: 100px;
+}

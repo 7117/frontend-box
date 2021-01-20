@@ -1,0 +1,9 @@
+.a .b .c {
+  border: 1px solid red;
+}
+.c.a .b {
+  border: 1px solid red;
+}
+.c .a .b {
+  border: 1px solid red;
+}

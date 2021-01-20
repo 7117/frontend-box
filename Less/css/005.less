@@ -1,0 +1,13 @@
+@var: 0;
+
+.wrap {
+  @var: 1;
+
+  .brass {
+    @var: 2;
+    three: @var; //3
+    @var: 3;
+  }
+
+  one: @var;
+}

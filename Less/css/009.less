@@ -1,0 +1,25 @@
+//加上（）   不显示了
+.juzhong(@w:60px,@h:60px) {
+  width: @w;
+  height: @h;
+  border: 1px solid red;
+  background-color: pink;
+}
+
+.wrap {
+  border: 1px solid black;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  height: 200px;
+
+  .inner {
+    .juzhong(70px,70px)
+  }
+
+  .inner2 {
+    .juzhong
+  }
+}

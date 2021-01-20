@@ -1,0 +1,6 @@
+.footer {
+  border-top-left-radius: 5px;
+  height: 100px;
+  width: 100px;
+  border: 2px solid red;
+}

@@ -20,16 +20,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d42abe6-8f24-49ac-8137-ccf7d5f0f94e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/001.less.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/002.引用.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/002.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/003变量的引用@{}.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/004注释.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/005延迟加载区域变量.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/006嵌套规则使用&amp;连接.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/007混合提取抽象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/008混合单纯.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/009混合形参.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/010混合命名参数对应关系.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/011混合匹配模式 进行指定.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/012混合分号.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/013混合使用一个代替所有.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/014混合计算.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/015嵌套规则初试.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/016嵌套规则改变元素顺序.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/017嵌套规则生成所有可能&amp;&amp;.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/018嵌套规则&amp;.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/019运算符.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/002.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/003.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/003.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/004.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/004.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/005.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/005.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/006.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/006.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/007.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/007.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/008.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/008.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/009.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/009.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/010.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/010.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/011.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/011.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/012.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/012.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/013.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/013.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/014.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/014.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/015.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/016.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/017.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/018.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/019.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/.idea/less.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/001.less.html" beforeDir="false" afterPath="$PROJECT_DIR$/Less/001less.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/002.引用.html" beforeDir="false" afterPath="$PROJECT_DIR$/Less/002结构less@.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/002.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/002.less" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,12 +101,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Less" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Less/css" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\phpstudy_pro\WWW\frontendCollection\Less\css" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\phpstudy_pro\WWW\frontendCollection\Less\css" />
       <recent name="D:\phpstudy_pro\WWW\frontendCollection\Less" />
       <recent name="D:\phpstudy_pro\WWW\frontendCollection\H5" />
     </key>
@@ -81,7 +126,8 @@
       <workItem from="1606229417878" duration="18000" />
       <workItem from="1610947349557" duration="1822000" />
       <workItem from="1611019165112" duration="7476000" />
-      <workItem from="1611049179829" duration="1427000" />
+      <workItem from="1611049179829" duration="1685000" />
+      <workItem from="1611109478941" duration="20023000" />
     </task>
     <servers />
   </component>

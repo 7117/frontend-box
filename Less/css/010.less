@@ -1,4 +1,10 @@
-@charset "UTF-8";
+.juzhong(@w:60px,@h:60px) {
+  width: @w;
+  height: @h;
+  border: 1px solid red;
+  background-color: pink;
+}
+
 .wrap {
   border: 1px solid black;
   margin: 0 auto;
@@ -9,10 +15,10 @@
   height: 200px;
 
   .inner {
-    width: 70px;
-    height: 70px;
-    border: 1px solid red;
-    background-color: pink;
+    .juzhong(70px,70px)
+  }
 
+  .inner2 {
+    .juzhong(@h:70px)
   }
 }

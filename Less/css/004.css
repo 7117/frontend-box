@@ -1,4 +1,4 @@
-@charset "UTF-8";
+/*显示的内容*/
 .wrap {
   border: 1px solid black;
   margin: 0 auto;
@@ -7,12 +7,10 @@
   align-items: center;
   width: 200px;
   height: 200px;
-
-  .inner {
-    width: 70px;
-    height: 70px;
-    border: 1px solid red;
-    background-color: pink;
-
-  }
+}
+.wrap .inner {
+  width: 70px;
+  height: 70px;
+  border: 1px solid red;
+  background-color: pink;
 }
