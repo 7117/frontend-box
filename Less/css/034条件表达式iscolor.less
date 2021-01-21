@@ -1,0 +1,11 @@
+.a(@a) when (iscolor(@a)) {
+  background-color: black;
+}
+
+.a(@a) when (isnumbet(@a)) {
+  background-color: white;
+}
+
+.b{
+  .a(#fff)
+}

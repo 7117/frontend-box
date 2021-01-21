@@ -1,0 +1,17 @@
+.a(@a) when (lightness(@a)>=50%) {
+  background-color: black;
+}
+
+.a(@a) when (lightness(@a)<50%) {
+  background-color: white;
+}
+
+
+.b {
+  .a(#ddd)
+}
+
+
+.b {
+  .a(#555)
+}

@@ -1,0 +1,14 @@
+.a(@a) when (ispixel(@a)) {
+  background-color: black;
+  width: @a;
+}
+
+.b(@a) when (ispixel(@a)) {
+  background-color: black;
+  width: @a;
+}
+
+.c {
+  .a(22px);
+  .b(88%);
+}
