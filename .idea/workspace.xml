@@ -20,30 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d42abe6-8f24-49ac-8137-ccf7d5f0f94e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Less/023作用域大于号.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/024作用域空格.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/025引入less.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/026引入CSS.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/027引入reference.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/028引入inline.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/029引入once.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/030引入less.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/031引入css.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/023.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/024.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/025.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/026.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/027.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/028.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/029.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/030.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/031.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/main.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/main2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/main3.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/main4.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/main5.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/main6.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/032关键字important.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/032引入multiple.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/001.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/032.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/033.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +82,7 @@
       <workItem from="1610947349557" duration="1822000" />
       <workItem from="1611019165112" duration="7476000" />
       <workItem from="1611049179829" duration="1685000" />
-      <workItem from="1611109478941" duration="28263000" />
+      <workItem from="1611109478941" duration="29369000" />
     </task>
     <servers />
   </component>
