@@ -1,0 +1,6 @@
+.a {
+  margin: 100px;
+}
+.b {
+  margin: 100px, 200px;
+}

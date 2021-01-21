@@ -20,14 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d42abe6-8f24-49ac-8137-ccf7d5f0f94e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Less/css/033条件表达式when.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/033条件表达式when.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/034条件表达式iscolor.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/035条件表达式isnumber.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/036条件表达式ispixel.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/037条件表达式loop.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/038条件表达式合并属性+_.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/039条件表达式合并属性+.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/040条件表达式合并混合.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Less/css/033.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Less/css/033.less" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +82,7 @@
       <workItem from="1611019165112" duration="7476000" />
       <workItem from="1611049179829" duration="1685000" />
       <workItem from="1611109478941" duration="29369000" />
-      <workItem from="1611210795178" duration="1989000" />
+      <workItem from="1611210795178" duration="4914000" />
     </task>
     <servers />
   </component>
@@ -105,10 +102,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="627" y="28" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1611211824384">
+    <state x="627" y="28" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1611216389724">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="627" y="28" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.834@0.0.1536.834" timestamp="1611211824384" />
+    <state x="627" y="28" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.834@0.0.1536.834" timestamp="1611216389724" />
     <state x="429" y="194" key="EditFileWatcherDialog" timestamp="1611050580314">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
