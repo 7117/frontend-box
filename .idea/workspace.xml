@@ -20,12 +20,101 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d42abe6-8f24-49ac-8137-ccf7d5f0f94e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Less/032关键字important.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/032引入multiple.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/001.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/032.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/033.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/002结构less@.html" beforeDir="false" afterPath="$PROJECT_DIR$/Less/002结构less@.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/003变量的引用@{}.html" beforeDir="false" afterPath="$PROJECT_DIR$/Less/003变量的引用@{}.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/005延迟加载区域变量.html" beforeDir="false" afterPath="$PROJECT_DIR$/Less/005延迟加载区域变量.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/006嵌套规则使用&amp;连接.html" beforeDir="false" afterPath="$PROJECT_DIR$/Less/006嵌套规则使用&amp;连接.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/007混合提取抽象.html" beforeDir="false" afterPath="$PROJECT_DIR$/Less/007混合提取抽象.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/008混合单纯.html" beforeDir="false" afterPath="$PROJECT_DIR$/Less/008混合单纯.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/009混合形参.html" beforeDir="false" afterPath="$PROJECT_DIR$/Less/009混合形参.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/010混合命名参数对应关系.html" beforeDir="false" afterPath="$PROJECT_DIR$/Less/010混合命名参数对应关系.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/011混合匹配模式 进行指定.html" beforeDir="false" afterPath="$PROJECT_DIR$/Less/011混合匹配模式 进行指定.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/012混合分号.html" beforeDir="false" afterPath="$PROJECT_DIR$/Less/012混合分号.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/013混合使用一个代替所有.html" beforeDir="false" afterPath="$PROJECT_DIR$/Less/013混合使用一个代替所有.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/014混合计算.html" beforeDir="false" afterPath="$PROJECT_DIR$/Less/014混合计算.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/015嵌套规则初试.html" beforeDir="false" afterPath="$PROJECT_DIR$/Less/015嵌套规则初试.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/016嵌套规则改变元素顺序.html" beforeDir="false" afterPath="$PROJECT_DIR$/Less/016嵌套规则改变元素顺序.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/017嵌套规则生成所有可能&amp;&amp;.html" beforeDir="false" afterPath="$PROJECT_DIR$/Less/017嵌套规则生成所有可能&amp;&amp;.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/018嵌套规则&amp;.html" beforeDir="false" afterPath="$PROJECT_DIR$/Less/018嵌套规则&amp;.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/019运算符.html" beforeDir="false" afterPath="$PROJECT_DIR$/Less/019运算符.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/020运算符颜色运算.html" beforeDir="false" afterPath="$PROJECT_DIR$/Less/020运算符颜色运算.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/021命名空间.html" beforeDir="false" afterPath="$PROJECT_DIR$/Less/021命名空间.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/022命名空间省略大于号.html" beforeDir="false" afterPath="$PROJECT_DIR$/Less/022命名空间省略大于号.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/023作用域大于号.html" beforeDir="false" afterPath="$PROJECT_DIR$/Less/023作用域大于号.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/024作用域空格.html" beforeDir="false" afterPath="$PROJECT_DIR$/Less/024作用域空格.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/025引入less.html" beforeDir="false" afterPath="$PROJECT_DIR$/Less/025引入less.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/026引入CSS.html" beforeDir="false" afterPath="$PROJECT_DIR$/Less/026引入CSS.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/027引入reference.html" beforeDir="false" afterPath="$PROJECT_DIR$/Less/027引入reference.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/028引入inline.html" beforeDir="false" afterPath="$PROJECT_DIR$/Less/028引入inline.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/029引入once.html" beforeDir="false" afterPath="$PROJECT_DIR$/Less/029引入once.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/030引入less.html" beforeDir="false" afterPath="$PROJECT_DIR$/Less/030引入less.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/031引入css.html" beforeDir="false" afterPath="$PROJECT_DIR$/Less/031引入css.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/032关键字important.html" beforeDir="false" afterPath="$PROJECT_DIR$/Less/032关键字important.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/032引入multiple.html" beforeDir="false" afterPath="$PROJECT_DIR$/Less/032引入multiple.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/001.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/001less.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/001.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/001less.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/002.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/002结构less@.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/002.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/002结构less@.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/003.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/003变量的引用@{}.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/003.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/003变量的引用@{}.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/004.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/004注释.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/004.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/004注释.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/005.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/005延迟加载区域变量.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/005.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/005延迟加载区域变量.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/006.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/006嵌套规则使用&amp;连接.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/006.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/006嵌套规则使用&amp;连接.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/007.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/007混合提取抽象.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/007.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/007混合提取抽象.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/008.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/008混合单纯.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/008.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/008混合单纯.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/009.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/009混合形参.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/009.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/009混合形参.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/010.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/010混合命名参数对应关系.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/010.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/010混合命名参数对应关系.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/011.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/011混合匹配模式 进行指定.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/011.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/011混合匹配模式 进行指定.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/012.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/012混合分号.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/012.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/012混合分号.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/013.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/013混合使用一个代替所有.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/013.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/013混合使用一个代替所有.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/014.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/014混合计算.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/014.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/014混合计算.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/015.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/015嵌套规则初试.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/015.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/015嵌套规则初试.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/016.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/016嵌套规则改变元素顺序.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/016.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/016嵌套规则改变元素顺序.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/017.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/017嵌套规则生成所有可能&amp;&amp;.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/017.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/017嵌套规则生成所有可能&amp;&amp;.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/018.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/018嵌套规则&amp;.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/018.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/018嵌套规则&amp;.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/019.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/019运算符.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/019.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/019运算符.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/020.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/020运算符颜色运算.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/020.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/020运算符颜色运算.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/021.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/021命名空间.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/021.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/021命名空间.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/022.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/022命名空间省略大于号.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/022.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/022命名空间省略大于号.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/023.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/023作用域大于号.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/023.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/023作用域大于号.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/024.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/024作用域空格.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/024.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/024作用域空格.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/025.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/025引入less.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/025.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/025引入less.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/026.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/026引入CSS.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/026.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/026引入CSS.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/027.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/027引入reference.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/027.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/027引入reference.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/028.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/028引入inline.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/028.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/028引入inline.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/029.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/029引入once.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/029.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/029引入once.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/030.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/030引入less.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/030.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/030引入less.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/031.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/031引入css.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/031.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/031引入css.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/032.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/032引入multiple.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/032.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/032引入multiple.less" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +172,7 @@
       <workItem from="1611019165112" duration="7476000" />
       <workItem from="1611049179829" duration="1685000" />
       <workItem from="1611109478941" duration="29369000" />
+      <workItem from="1611210795178" duration="421000" />
     </task>
     <servers />
   </component>
@@ -102,6 +192,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="627" y="28" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1611211191092">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="627" y="28" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.834@0.0.1536.834" timestamp="1611211191092" />
     <state x="429" y="194" key="EditFileWatcherDialog" timestamp="1611050580314">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -114,6 +208,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="271" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1611036631978" />
+    <state x="94" y="94" width="1349" height="646" key="dock-window-1" timestamp="1611211216316">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="94" y="94" width="1349" height="646" key="dock-window-1/0.0.1536.834@0.0.1536.834" timestamp="1611211216316" />
     <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1611155332896">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
