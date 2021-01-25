@@ -20,15 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d42abe6-8f24-49ac-8137-ccf7d5f0f94e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Less/css/047计算函数calc.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/048计算函数calc避免计算.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/050替换函数a.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/051替换函数A.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/052替换函数d.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/053替换函数D.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/054替换函数s.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/055替换函数S.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Less/css/044函数escape.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/044转义函数escape.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Less/css/044函数escape.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/044转义函数escape.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Less/css/045函数转义.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/045转义函数转义.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Less/css/045函数转义.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/045转义函数转义.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Less/css/046函数e.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/046转义函数e.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Less/css/046函数e.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/046转义函数e.less" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +93,7 @@
       <workItem from="1611470146270" duration="3263000" />
       <workItem from="1611539248047" duration="3416000" />
       <workItem from="1611553979189" duration="2040000" />
-      <workItem from="1611560451468" duration="1345000" />
+      <workItem from="1611560451468" duration="2960000" />
     </task>
     <servers />
   </component>
@@ -115,10 +113,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="627" y="28" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1611564188025">
+    <state x="627" y="28" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1611565936627">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="627" y="28" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.834@0.0.1536.834" timestamp="1611564188025" />
+    <state x="627" y="28" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.834@0.0.1536.834" timestamp="1611565936627" />
     <state x="429" y="194" key="EditFileWatcherDialog" timestamp="1611050580314">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
