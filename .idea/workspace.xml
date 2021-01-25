@@ -20,18 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d42abe6-8f24-49ac-8137-ccf7d5f0f94e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS/table-cell/001使用lineheight导致的问题.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/table-cell/002使用flex导致的问题.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/table-cell/003table父级的.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/table-cell/004table独自的.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/047计算函数calc.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/048计算函数calc避免计算.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/垂直居中/2.inline-block块的居中.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/垂直居中/2.inline-block块的居中.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/水平居中/1.text-align.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/水平居中/1.文字居中text-align.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/水平居中/3.多个块状.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/水平居中/3.多个块状属性定制为行内块元素.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/水平居中/4.多个块状.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/水平居中/4.多个块状使用flex.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/水平居中/5.宽度不确定元素.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/水平居中/5.宽度不确定元素 使用定位回退自身一半.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H5/001table.html" beforeDir="false" afterPath="$PROJECT_DIR$/H5/001table.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/044函数escape.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/044转义函数escape.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/044函数escape.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/044转义函数escape.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/045函数转义.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/045转义函数转义.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/045函数转义.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/045转义函数转义.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/046函数e.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/046转义函数e.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/046函数e.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/046转义函数e.less" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,23 +59,23 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/CSS/table-cell" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Less/css" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\phpstudy_pro\WWW\frontendCollection\Less\css" />
+      <recent name="D:\phpstudy_pro\WWW\frontendCollection\CSS\table-cell" />
+      <recent name="D:\phpstudy_pro\WWW\frontendCollection\H5" />
+      <recent name="D:\phpstudy_pro\WWW\frontendCollection\Less" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\phpstudy_pro\WWW\frontendCollection\CSS\水平居中" />
       <recent name="D:\phpstudy_pro\WWW\frontendCollection\CSS\垂直居中" />
       <recent name="D:\phpstudy_pro\WWW\frontendCollection\H5" />
       <recent name="D:\phpstudy_pro\WWW\frontendCollection\Less\css" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\phpstudy_pro\WWW\frontendCollection\CSS\table-cell" />
-      <recent name="D:\phpstudy_pro\WWW\frontendCollection\Less\css" />
-      <recent name="D:\phpstudy_pro\WWW\frontendCollection\H5" />
-      <recent name="D:\phpstudy_pro\WWW\frontendCollection\Less" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -97,7 +94,8 @@
       <workItem from="1611210795178" duration="15557000" />
       <workItem from="1611470146270" duration="3263000" />
       <workItem from="1611539248047" duration="3416000" />
-      <workItem from="1611553979189" duration="1793000" />
+      <workItem from="1611553979189" duration="2040000" />
+      <workItem from="1611560451468" duration="1345000" />
     </task>
     <servers />
   </component>
@@ -117,10 +115,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="627" y="28" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1611219682343">
+    <state x="627" y="28" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1611564188025">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="627" y="28" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.834@0.0.1536.834" timestamp="1611219682343" />
+    <state x="627" y="28" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.834@0.0.1536.834" timestamp="1611564188025" />
     <state x="429" y="194" key="EditFileWatcherDialog" timestamp="1611050580314">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
