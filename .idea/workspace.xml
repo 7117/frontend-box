@@ -20,9 +20,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d42abe6-8f24-49ac-8137-ccf7d5f0f94e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Less/css/066数学函数abs.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/067数学函数sin.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/068数学函数pi.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/069数学函数pow.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/070数学函数mod.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/071数学函数min.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/072数学函数max.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/073类型函数.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/073类型函数.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/074类型函数isnumber.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/075类型函数isunit.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/076颜色定义函数.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/077颜色定义函数rgb.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/078颜色定义函数rgba.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/079颜色定义函数argb.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/080颜色定义函数argb.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/081颜色定义函数hsl.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/082颜色定义函数hsv.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/067数学函数sin.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/067数学函数sin.less" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +104,7 @@
       <workItem from="1611470146270" duration="3263000" />
       <workItem from="1611539248047" duration="3416000" />
       <workItem from="1611553979189" duration="2040000" />
-      <workItem from="1611560451468" duration="6242000" />
+      <workItem from="1611560451468" duration="11528000" />
     </task>
     <servers />
   </component>
@@ -109,10 +124,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="627" y="28" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1611565936627">
+    <state x="627" y="28" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1611576195574">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="627" y="28" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.834@0.0.1536.834" timestamp="1611565936627" />
+    <state x="627" y="28" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.834@0.0.1536.834" timestamp="1611576195574" />
     <state x="429" y="194" key="EditFileWatcherDialog" timestamp="1611050580314">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
