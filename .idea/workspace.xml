@@ -20,13 +20,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d42abe6-8f24-49ac-8137-ccf7d5f0f94e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Less/css/050替换函数a.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/051替换函数A.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/052替换函数d.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/053替换函数D.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/054替换函数s.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/055替换函数S.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/056替换函数replace.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/056替换函数replace.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/057长度函数length.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/057长度函数length.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/058长度函数extract.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/058长度函数extract.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/059长度函数length.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/061数学函数ceil.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/062数学函数floor.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/063数学函数percentage.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/064数学函数round.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/065数学函数sqrt.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/045转义函数转义.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/045转义函数转义.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/045转义函数转义.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/045转义函数转义.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Less/css/099.png" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/045转义函数转义.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +102,7 @@
       <workItem from="1611470146270" duration="3263000" />
       <workItem from="1611539248047" duration="3416000" />
       <workItem from="1611553979189" duration="2040000" />
-      <workItem from="1611560451468" duration="2960000" />
+      <workItem from="1611560451468" duration="5558000" />
     </task>
     <servers />
   </component>
@@ -133,6 +142,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="94" y="94" width="1349" height="646" key="dock-window-1/0.0.1536.834@0.0.1536.834" timestamp="1611211216316" />
+    <state x="470" y="15" width="596" height="804" key="find.popup" timestamp="1611568190062">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="470" y="15" width="596" height="804" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1611568190062" />
     <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1611540767865">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
