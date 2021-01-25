@@ -20,20 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d42abe6-8f24-49ac-8137-ccf7d5f0f94e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Less/css/045函数转义.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/046函数e.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/table-cell/001使用lineheight导致的问题.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/table-cell/002使用flex导致的问题.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/table-cell/003table父级的.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/table-cell/004table独自的.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/垂直居中/1.text-align.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/水平居中/1.text-align.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/垂直居中/2.单个块状.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/水平居中/2.单个块状margin.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/垂直居中/3.多个块状.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/水平居中/3.多个块状.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/垂直居中/4.多个块状.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/水平居中/4.多个块状.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/垂直居中/5.宽度不确定元素.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/水平居中/5.宽度不确定元素.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/水平居中/1.line-height字的居中.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/垂直居中/1.line-height字的居中.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/水平居中/2.inline-block块的居中.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/垂直居中/2.inline-block块的居中.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/水平居中/3.flex块的居中.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/垂直居中/3.flex块的居中.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/水平居中/4.table文字的居中.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/垂直居中/4.table文字的居中.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/水平居中/5.translateY居中.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/垂直居中/5.translateY居中.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/水平居中/6.translateY居中.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/垂直居中/6.translateY居中.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/垂直居中/2.inline-block块的居中.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/垂直居中/2.inline-block块的居中.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/水平居中/1.text-align.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/水平居中/1.文字居中text-align.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/水平居中/3.多个块状.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/水平居中/3.多个块状属性定制为行内块元素.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/水平居中/4.多个块状.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/水平居中/4.多个块状使用flex.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/水平居中/5.宽度不确定元素.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/水平居中/5.宽度不确定元素 使用定位回退自身一半.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/H5/001table.html" beforeDir="false" afterPath="$PROJECT_DIR$/H5/001table.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,21 +62,23 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Less/css" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CSS/table-cell" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\phpstudy_pro\WWW\frontendCollection\Less\css" />
-      <recent name="D:\phpstudy_pro\WWW\frontendCollection\H5" />
-      <recent name="D:\phpstudy_pro\WWW\frontendCollection\Less" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\phpstudy_pro\WWW\frontendCollection\CSS\水平居中" />
       <recent name="D:\phpstudy_pro\WWW\frontendCollection\CSS\垂直居中" />
       <recent name="D:\phpstudy_pro\WWW\frontendCollection\H5" />
       <recent name="D:\phpstudy_pro\WWW\frontendCollection\Less\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\phpstudy_pro\WWW\frontendCollection\CSS\table-cell" />
+      <recent name="D:\phpstudy_pro\WWW\frontendCollection\Less\css" />
+      <recent name="D:\phpstudy_pro\WWW\frontendCollection\H5" />
+      <recent name="D:\phpstudy_pro\WWW\frontendCollection\Less" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -96,7 +96,8 @@
       <workItem from="1611109478941" duration="29369000" />
       <workItem from="1611210795178" duration="15557000" />
       <workItem from="1611470146270" duration="3263000" />
-      <workItem from="1611539248047" duration="357000" />
+      <workItem from="1611539248047" duration="3416000" />
+      <workItem from="1611553979189" duration="1793000" />
     </task>
     <servers />
   </component>
@@ -128,17 +129,17 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1606229431914" />
-    <state x="271" y="62" key="SettingsEditor" timestamp="1611036631978">
+    <state x="271" y="62" key="SettingsEditor" timestamp="1611551059053">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="271" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1611036631978" />
+    <state x="271" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1611551059053" />
     <state x="94" y="94" width="1349" height="646" key="dock-window-1" timestamp="1611211216316">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="94" y="94" width="1349" height="646" key="dock-window-1/0.0.1536.834@0.0.1536.834" timestamp="1611211216316" />
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1611155332896">
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1611540767865">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1611155332896" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1611540767865" />
   </component>
 </project>
