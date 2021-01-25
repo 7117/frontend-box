@@ -20,27 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d42abe6-8f24-49ac-8137-ccf7d5f0f94e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/H5/008侧边栏块级元素.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H5/009图片居中.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H5/a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/041函数color convert data-uri.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/042函数default.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/043函数ispixel unit.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/044函数escape.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/045函数转义.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/046函数e.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H5/.idea/H5.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/H5/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/H5/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/H5/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/H5/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/H5/001.table.html" beforeDir="false" afterPath="$PROJECT_DIR$/H5/001table.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H5/002.合并单元格.html" beforeDir="false" afterPath="$PROJECT_DIR$/H5/002合并单元格.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H5/003.注册页面.html" beforeDir="false" afterPath="$PROJECT_DIR$/H5/003注册页面.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H5/004.css页面.html" beforeDir="false" afterPath="$PROJECT_DIR$/H5/004css页面.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H5/005.emmet.html" beforeDir="false" afterPath="$PROJECT_DIR$/H5/005emmet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H5/006.后代.html" beforeDir="false" afterPath="$PROJECT_DIR$/H5/006后代.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H5/007.子选择器.html" beforeDir="false" afterPath="$PROJECT_DIR$/H5/007子选择器.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/垂直居中/1.text-align.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/水平居中/1.text-align.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/垂直居中/2.单个块状.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/水平居中/2.单个块状margin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/垂直居中/3.多个块状.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/水平居中/3.多个块状.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/垂直居中/4.多个块状.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/水平居中/4.多个块状.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/垂直居中/5.宽度不确定元素.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/水平居中/5.宽度不确定元素.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/水平居中/1.line-height字的居中.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/垂直居中/1.line-height字的居中.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/水平居中/2.inline-block块的居中.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/垂直居中/2.inline-block块的居中.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/水平居中/3.flex块的居中.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/垂直居中/3.flex块的居中.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/水平居中/4.table文字的居中.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/垂直居中/4.table文字的居中.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/水平居中/5.translateY居中.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/垂直居中/5.translateY居中.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/水平居中/6.translateY居中.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/垂直居中/6.translateY居中.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,17 +64,19 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/H5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Less/css" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\phpstudy_pro\WWW\frontendCollection\H5" />
       <recent name="D:\phpstudy_pro\WWW\frontendCollection\Less\css" />
+      <recent name="D:\phpstudy_pro\WWW\frontendCollection\H5" />
       <recent name="D:\phpstudy_pro\WWW\frontendCollection\Less" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\phpstudy_pro\WWW\frontendCollection\CSS\水平居中" />
+      <recent name="D:\phpstudy_pro\WWW\frontendCollection\CSS\垂直居中" />
       <recent name="D:\phpstudy_pro\WWW\frontendCollection\H5" />
       <recent name="D:\phpstudy_pro\WWW\frontendCollection\Less\css" />
     </key>
@@ -99,7 +94,9 @@
       <workItem from="1611019165112" duration="7476000" />
       <workItem from="1611049179829" duration="1685000" />
       <workItem from="1611109478941" duration="29369000" />
-      <workItem from="1611210795178" duration="14158000" />
+      <workItem from="1611210795178" duration="15557000" />
+      <workItem from="1611470146270" duration="3263000" />
+      <workItem from="1611539248047" duration="357000" />
     </task>
     <servers />
   </component>
