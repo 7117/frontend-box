@@ -19,23 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d42abe6-8f24-49ac-8137-ccf7d5f0f94e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Less/css/082颜色通道函数.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/083颜色通道函数hsl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/083颜色通道函数hsl.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/084颜色通道函数hsv.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/085颜色通道函数rgba.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/086颜色通道函数luma.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Less/css/080颜色定义函数argb.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Less/css/080颜色定义函数argb.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Less/css/081颜色定义函数hsl.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/080颜色定义函数hsl.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Less/css/081颜色定义函数hsl.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/080颜色定义函数hsl.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Less/css/082颜色定义函数hsv.css" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/081颜色定义函数hsv.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Less/css/082颜色定义函数hsv.less" beforeDir="false" afterPath="$PROJECT_DIR$/Less/css/081颜色定义函数hsv.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Less/css/083颜色通道函数.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Less/css/083颜色通道函数.less" beforeDir="false" />
-    </list>
+    <list default="true" id="3d42abe6-8f24-49ac-8137-ccf7d5f0f94e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +85,7 @@
       <workItem from="1611470146270" duration="3263000" />
       <workItem from="1611539248047" duration="3416000" />
       <workItem from="1611553979189" duration="2040000" />
-      <workItem from="1611560451468" duration="13559000" />
+      <workItem from="1611560451468" duration="13828000" />
     </task>
     <servers />
   </component>
