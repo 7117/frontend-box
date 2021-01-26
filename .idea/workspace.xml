@@ -19,7 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d42abe6-8f24-49ac-8137-ccf7d5f0f94e" name="Default Changelist" comment="" />
+    <list default="true" id="3d42abe6-8f24-49ac-8137-ccf7d5f0f94e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Less/css/087颜色运算函数.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/088颜色运算函数saturate.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/089颜色混合函数.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Less/css/090颜色混合函数multiply.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,17 +61,17 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\phpstudy_pro\WWW\frontendCollection\Less\css" />
-      <recent name="D:\phpstudy_pro\WWW\frontendCollection\CSS\table-cell" />
-      <recent name="D:\phpstudy_pro\WWW\frontendCollection\H5" />
-      <recent name="D:\phpstudy_pro\WWW\frontendCollection\Less" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\phpstudy_pro\WWW\frontendCollection\CSS\水平居中" />
       <recent name="D:\phpstudy_pro\WWW\frontendCollection\CSS\垂直居中" />
       <recent name="D:\phpstudy_pro\WWW\frontendCollection\H5" />
       <recent name="D:\phpstudy_pro\WWW\frontendCollection\Less\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\phpstudy_pro\WWW\frontendCollection\Less\css" />
+      <recent name="D:\phpstudy_pro\WWW\frontendCollection\CSS\table-cell" />
+      <recent name="D:\phpstudy_pro\WWW\frontendCollection\H5" />
+      <recent name="D:\phpstudy_pro\WWW\frontendCollection\Less" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -86,6 +92,7 @@
       <workItem from="1611539248047" duration="3416000" />
       <workItem from="1611553979189" duration="2040000" />
       <workItem from="1611560451468" duration="13828000" />
+      <workItem from="1611648935621" duration="3602000" />
     </task>
     <servers />
   </component>
