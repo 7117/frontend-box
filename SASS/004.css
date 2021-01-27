@@ -1,0 +1,11 @@
+div {
+  background: red;
+}
+div ul {
+  background: #000;
+}
+div ul:hover {
+  background: black;
+}
+
+/*# sourceMappingURL=004.css.map */

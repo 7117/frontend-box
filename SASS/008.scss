@@ -1,0 +1,13 @@
+//混合mixin  其实就是函数的意思
+@mixin alert {
+  color: #0f0f0f;
+  background-color: #1b6d85;
+  a {
+    border: 2px solid red;
+  }
+}
+
+.alert-warning {
+  font-style: italic;
+  @include alert;
+}

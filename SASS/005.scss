@@ -1,0 +1,17 @@
+//嵌套 对于hover的处理
+
+div {
+  background: red;
+
+  ul {
+    background: #000;
+
+    &:hover {
+      background: black;
+    }
+  }
+
+  & &-aaa {
+    font-size: 20px;
+  }
+}
