@@ -1,0 +1,9 @@
+//混合mixin  继承   a相当于base类
+.a {
+  padding: 15px;
+}
+
+.b {
+  @extend .a;
+  height: 200px;
+}

@@ -1,0 +1,12 @@
+.a, .b {
+  padding: 15px;
+}
+.a .c, .b .c {
+  bottom: 2px;
+}
+
+.b {
+  height: 200px;
+}
+
+/*# sourceMappingURL=010extend.css.map */

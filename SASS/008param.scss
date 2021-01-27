@@ -1,0 +1,18 @@
+//混合mixin  带有参数
+@mixin alert($a,$b) {
+  color: $a;
+  background-color: $b;
+  a {
+    border: 2px solid red;
+  }
+}
+
+.alert-warning {
+  font-style: italic;
+  @include alert(#000,#fff);
+}
+
+.alert-info {
+  font-style: italic;
+  @include alert($b:#444,$a:#fff);
+}

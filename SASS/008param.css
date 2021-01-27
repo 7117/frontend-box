@@ -1,0 +1,19 @@
+.alert-warning {
+  font-style: italic;
+  color: #000;
+  background-color: #fff;
+}
+.alert-warning a {
+  border: 2px solid red;
+}
+
+.alert-info {
+  font-style: italic;
+  color: #fff;
+  background-color: #444;
+}
+.alert-info a {
+  border: 2px solid red;
+}
+
+/*# sourceMappingURL=008param.css.map */
