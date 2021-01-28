@@ -1,0 +1,8 @@
+$a:hsl(222,100%,50%);
+$b:saturate($a,30%);
+$c:desaturate($a,30%);
+
+.a{
+  background-color: $b;
+  background-color: $c;
+}

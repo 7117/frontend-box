@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* Error: expected "{".
+ *   ,
+ * 6 | //4
+ *   |    ^
+ *   '
+ *   015jisuan.scss 6:4  root stylesheet */
+body::before {
+  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono", "Droid Sans Mono", monospace, monospace;
+  white-space: pre;
+  display: block;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-bottom: 2px solid black;
+  content: 'Error: expected "{".\a   ╷\a 6 │ //4\a   │    ^\a   ╵\a   015jisuan.scss 6:4  root stylesheet';
+}
+
+/*# sourceMappingURL=015jisuan.css.map */

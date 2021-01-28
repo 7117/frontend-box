@@ -1,0 +1,20 @@
+sass -i
+
+“ming” + hao
+//minghao
+
+"ning" - hao
+//nig-hao
+
+$a:"aa"
+$a
+//aa
+to-upper-case($a)
+//AA
+to-lower-case($a)
+//aa
+str-length($a)
+//2
+str-index($a,"Haalo")
+//2
+str-insert($a,"v",2)

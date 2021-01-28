@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* Error: expected "{".
+ *    ,
+ * 20 | str-insert($a,"v",2)
+ *    |                     ^
+ *    '
+ *   017string func.scss 20:21  root stylesheet */
+body::before {
+  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono", "Droid Sans Mono", monospace, monospace;
+  white-space: pre;
+  display: block;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-bottom: 2px solid black;
+  content: 'Error: expected "{".\a    ╷\a 20 │ str-insert($a,"v",2)\a    │                     ^\a    ╵\a   017string func.scss 20:21  root stylesheet';
+}
+
+/*# sourceMappingURL=017string%20func.css.map */

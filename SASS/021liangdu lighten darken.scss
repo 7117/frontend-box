@@ -1,0 +1,8 @@
+$a:hsl(222,100%,50%);
+$b:lighten($a,30%);
+$c:darken($a,30%);
+
+.a{
+  background-color: $b;
+  background-color: $c;
+}

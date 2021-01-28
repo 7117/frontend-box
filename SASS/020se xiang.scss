@@ -1,0 +1,6 @@
+$a:#ff0000;
+$b:hsl(0,100,50%);
+
+.a{
+  background-color: adjust-hue($b,137deg);
+}

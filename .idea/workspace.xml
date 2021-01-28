@@ -51,27 +51,30 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Less/css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SASS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\phpstudy_pro\WWW\frontendCollection\CSS\水平居中" />
-      <recent name="D:\phpstudy_pro\WWW\frontendCollection\CSS\垂直居中" />
-      <recent name="D:\phpstudy_pro\WWW\frontendCollection\H5" />
-      <recent name="D:\phpstudy_pro\WWW\frontendCollection\Less\css" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\phpstudy_pro\WWW\frontendCollection\SASS" />
+      <recent name="D:\phpstudy_pro\WWW\frontendCollection\SCSS" />
       <recent name="D:\phpstudy_pro\WWW\frontendCollection\Less\css" />
       <recent name="D:\phpstudy_pro\WWW\frontendCollection\CSS\table-cell" />
       <recent name="D:\phpstudy_pro\WWW\frontendCollection\H5" />
-      <recent name="D:\phpstudy_pro\WWW\frontendCollection\Less" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\phpstudy_pro\WWW\frontendCollection\SCSS" />
+      <recent name="D:\phpstudy_pro\WWW\frontendCollection\SASS" />
+      <recent name="D:\phpstudy_pro\WWW\frontendCollection\CSS\水平居中" />
+      <recent name="D:\phpstudy_pro\WWW\frontendCollection\CSS\垂直居中" />
+      <recent name="D:\phpstudy_pro\WWW\frontendCollection\H5" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -112,14 +115,18 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="627" y="28" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1611589888643">
+    <state x="514" y="218" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611734440488">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="627" y="28" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.834@0.0.1536.834" timestamp="1611589888643" />
-    <state x="429" y="194" key="EditFileWatcherDialog" timestamp="1611050580314">
+    <state x="514" y="218" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1611734440488" />
+    <state x="237" y="28" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1611741934284">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="429" y="194" key="EditFileWatcherDialog/0.0.1536.834@0.0.1536.834" timestamp="1611050580314" />
+    <state x="237" y="28" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.834@0.0.1536.834" timestamp="1611741934284" />
+    <state x="429" y="194" key="EditFileWatcherDialog" timestamp="1611734334297">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="429" y="194" key="EditFileWatcherDialog/0.0.1536.834@0.0.1536.834" timestamp="1611734334297" />
     <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1606229431914">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -136,9 +143,13 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="470" y="15" width="596" height="804" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1611568190062" />
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1611540767865">
+    <state x="426" y="190" key="run.anything.popup" timestamp="1611735018020">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1611540767865" />
+    <state x="426" y="190" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1611735018020" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1611738459531">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1611738459531" />
   </component>
 </project>
