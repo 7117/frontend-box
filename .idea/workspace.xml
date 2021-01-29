@@ -20,11 +20,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d42abe6-8f24-49ac-8137-ccf7d5f0f94e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Less/css/087颜色运算函数.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/088颜色运算函数saturate.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/089颜色混合函数.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less/css/090颜色混合函数multiply.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SASS/023opacify.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SASS/024list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SASS/025map.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SASS/026bool.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SASS/027Interpolation.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SASS/014shuzi.css" beforeDir="false" afterPath="$PROJECT_DIR$/SASS/014shuzi.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SASS/014shuzi.scss" beforeDir="false" afterPath="$PROJECT_DIR$/SASS/014shuzi.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SASS/015jisuan.css" beforeDir="false" afterPath="$PROJECT_DIR$/SASS/015jisuan.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SASS/015jisuan.scss" beforeDir="false" afterPath="$PROJECT_DIR$/SASS/015jisuan.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SASS/016math func.css" beforeDir="false" afterPath="$PROJECT_DIR$/SASS/016math func.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SASS/016math func.scss" beforeDir="false" afterPath="$PROJECT_DIR$/SASS/016math func.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SASS/017string func.css" beforeDir="false" afterPath="$PROJECT_DIR$/SASS/017string func.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SASS/017string func.scss" beforeDir="false" afterPath="$PROJECT_DIR$/SASS/017string func.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCSS/014shuzi.css" beforeDir="false" afterPath="$PROJECT_DIR$/SCSS/014shuzi.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCSS/014shuzi.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/SCSS/014shuzi.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCSS/015jisuan.css" beforeDir="false" afterPath="$PROJECT_DIR$/SCSS/015jisuan.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCSS/015jisuan.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/SCSS/015jisuan.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCSS/016math func.css" beforeDir="false" afterPath="$PROJECT_DIR$/SCSS/016math func.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCSS/016math func.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/SCSS/016math func.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCSS/017string func.css" beforeDir="false" afterPath="$PROJECT_DIR$/SCSS/017string func.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCSS/017string func.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/SCSS/017string func.css.map" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,18 +79,18 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\phpstudy_pro\WWW\frontendCollection\SASS" />
-      <recent name="D:\phpstudy_pro\WWW\frontendCollection\SCSS" />
-      <recent name="D:\phpstudy_pro\WWW\frontendCollection\Less\css" />
-      <recent name="D:\phpstudy_pro\WWW\frontendCollection\CSS\table-cell" />
-      <recent name="D:\phpstudy_pro\WWW\frontendCollection\H5" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\phpstudy_pro\WWW\frontendCollection\SCSS" />
       <recent name="D:\phpstudy_pro\WWW\frontendCollection\SASS" />
       <recent name="D:\phpstudy_pro\WWW\frontendCollection\CSS\水平居中" />
       <recent name="D:\phpstudy_pro\WWW\frontendCollection\CSS\垂直居中" />
+      <recent name="D:\phpstudy_pro\WWW\frontendCollection\H5" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\phpstudy_pro\WWW\frontendCollection\SASS" />
+      <recent name="D:\phpstudy_pro\WWW\frontendCollection\SCSS" />
+      <recent name="D:\phpstudy_pro\WWW\frontendCollection\Less\css" />
+      <recent name="D:\phpstudy_pro\WWW\frontendCollection\CSS\table-cell" />
       <recent name="D:\phpstudy_pro\WWW\frontendCollection\H5" />
     </key>
   </component>
@@ -96,6 +113,8 @@
       <workItem from="1611553979189" duration="2040000" />
       <workItem from="1611560451468" duration="13828000" />
       <workItem from="1611648935621" duration="3602000" />
+      <workItem from="1611821463284" duration="1099000" />
+      <workItem from="1611902286173" duration="3003000" />
     </task>
     <servers />
   </component>
