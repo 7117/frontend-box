@@ -20,28 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d42abe6-8f24-49ac-8137-ccf7d5f0f94e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SASS/023opacify.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SASS/024list.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SASS/025map.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SASS/026bool.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SASS/027Interpolation.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SASS/014shuzi.css" beforeDir="false" afterPath="$PROJECT_DIR$/SASS/014shuzi.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SASS/014shuzi.scss" beforeDir="false" afterPath="$PROJECT_DIR$/SASS/014shuzi.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SASS/015jisuan.css" beforeDir="false" afterPath="$PROJECT_DIR$/SASS/015jisuan.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SASS/015jisuan.scss" beforeDir="false" afterPath="$PROJECT_DIR$/SASS/015jisuan.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SASS/016math func.css" beforeDir="false" afterPath="$PROJECT_DIR$/SASS/016math func.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SASS/016math func.scss" beforeDir="false" afterPath="$PROJECT_DIR$/SASS/016math func.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SASS/017string func.css" beforeDir="false" afterPath="$PROJECT_DIR$/SASS/017string func.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SASS/017string func.scss" beforeDir="false" afterPath="$PROJECT_DIR$/SASS/017string func.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SCSS/014shuzi.css" beforeDir="false" afterPath="$PROJECT_DIR$/SCSS/014shuzi.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SCSS/014shuzi.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/SCSS/014shuzi.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SCSS/015jisuan.css" beforeDir="false" afterPath="$PROJECT_DIR$/SCSS/015jisuan.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SCSS/015jisuan.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/SCSS/015jisuan.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SCSS/016math func.css" beforeDir="false" afterPath="$PROJECT_DIR$/SCSS/016math func.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SCSS/016math func.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/SCSS/016math func.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SCSS/017string func.css" beforeDir="false" afterPath="$PROJECT_DIR$/SCSS/017string func.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SCSS/017string func.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/SCSS/017string func.css.map" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +93,7 @@
       <workItem from="1611560451468" duration="13828000" />
       <workItem from="1611648935621" duration="3602000" />
       <workItem from="1611821463284" duration="1099000" />
-      <workItem from="1611902286173" duration="3003000" />
+      <workItem from="1611902286173" duration="7315000" />
     </task>
     <servers />
   </component>
@@ -162,10 +141,11 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="470" y="15" width="596" height="804" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1611568190062" />
-    <state x="426" y="190" key="run.anything.popup" timestamp="1611735018020">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state x="4373" y="239" key="run.anything.popup" timestamp="1611905525637">
+      <screen x="3840" y="0" width="1920" height="1050" />
     </state>
     <state x="426" y="190" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1611735018020" />
+    <state x="4373" y="239" key="run.anything.popup/0.0.1707.930/3840.0.1920.1050@3840.0.1920.1050" timestamp="1611905525637" />
     <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1611738459531">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
