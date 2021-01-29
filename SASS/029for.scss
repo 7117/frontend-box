@@ -1,0 +1,13 @@
+$a: 4;
+@for $i from 1 through $a {
+  .v-#{$i} {
+    width: 100%/$a;
+  }
+}
+
+
+@for $i from 1 to $a {
+  .to-#{$i} {
+    width: 100%/$a;
+  }
+}

@@ -1,0 +1,9 @@
+$color: (light:#fff, dark:#000);
+
+@function a ($ket) {
+  @return map-get($color,$ket)
+}
+
+div{
+  background: a(light);
+}

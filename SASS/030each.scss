@@ -1,0 +1,8 @@
+$a:a b c d e f g;
+
+@each $icon in $a {
+  .r-#{$icon}{
+    width:100px;
+    border: $icon;
+  }
+}

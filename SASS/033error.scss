@@ -1,0 +1,18 @@
+$color: (light:#fff, dark:#000);
+
+@function a ($ket) {
+  @if not (map-has-key($color,$ket)) {
+    @warn "not found";
+    @error "error";
+  }@else{
+    @return map-get($color, $ket)
+  }
+}
+
+div {
+  background: a(light);
+}
+
+p {
+  //background: a(aaa);
+}
