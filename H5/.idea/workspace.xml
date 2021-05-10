@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2dafdb2c-7356-46f2-a903-69deb4ad5214" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/014快报.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/015xiaomi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/016布局.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017/images/banner2_20190819_210028.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017/images/btn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017/images/pic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017/images/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017study/images/banner2_20190819_210028.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017study/images/btn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017study/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017study/images/pic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017study/images/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017study/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017study/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017淘宝.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019名字.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/020三角.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/021三角.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18遮蔽罩.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/abcd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ldh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pig.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pvp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sprites.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tudou.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/013产品模块.html" beforeDir="false" afterPath="$PROJECT_DIR$/013产品模块.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_css_material/第五天/09-盒子模型之边框.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css_material/第五天/09-盒子模型之边框.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_css_material/第五天/18-小米侧边栏修改.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css_material/第五天/18-小米侧边栏修改.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_css_material/第五天/26-综合案例-产品模块.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css_material/第五天/26-综合案例-产品模块.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_css_material/第八天/13-淘宝轮播图.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css_material/第八天/13-淘宝轮播图.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_css_material/第八天/14-显示隐藏之display.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css_material/第八天/14-显示隐藏之display.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_css_material/第八天/15-显示隐藏之visibility.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css_material/第八天/15-显示隐藏之visibility.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_css_material/第八天/16-显示隐藏之overflow溢出隐藏.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css_material/第八天/16-显示隐藏之overflow溢出隐藏.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_css_material/第六天/04-盒子阴影.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css_material/第六天/04-盒子阴影.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_css_material/第六天/05-文字阴影.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css_material/第六天/05-文字阴影.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_css_material/第六天/06-行内块元素中间有缝隙.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css_material/第六天/06-行内块元素中间有缝隙.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_css_material/第六天/07-什么是浮动.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css_material/第六天/07-什么是浮动.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_css_material/第十天/04-HTML5新增input表单.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css_material/第十天/04-HTML5新增input表单.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_css_material/第十天/05-HTML5新增表单属性.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css_material/第十天/05-HTML5新增表单属性.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_css_material/第十天/09-CSS3新增nth-of-type选择器.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css_material/第十天/09-CSS3新增nth-of-type选择器.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_css_material/第十天/10-伪元素选择器.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css_material/第十天/10-伪元素选择器.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_css_material/第十天/16-CSS3过渡效果（重点).html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css_material/第十天/16-CSS3过渡效果（重点).html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_css_material/第十天/17-CSS3过渡练习.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_css_material/第十天/17-CSS3过渡练习.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/arr.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/arr.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/html_css_material" />
+  </component>
+  <component name="ProjectId" id="1rt88goQ1ftyBAaZ6frrfyixu4s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\phpstudy_pro\WWW\frontendCollection\H5" />
+      <recent name="D:\phpstudy_pro\WWW\frontendCollection\H5\017" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2dafdb2c-7356-46f2-a903-69deb4ad5214" name="Default Changelist" comment="" />
+      <created>1619783867677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619783867677</updated>
+      <workItem from="1619783868889" duration="54766000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="470" y="149" width="665" height="536" key="find.popup" timestamp="1620271973851">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="470" y="149" width="665" height="536" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1620271973851" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1619784349100">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1619784349100" />
+  </component>
+</project>

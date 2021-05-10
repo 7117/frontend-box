@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "Hi",
+  "usingComponents": {
+    "uni-calendar": "/components/uni-calendar/uni-calendar",
+    "test": "/components/test",
+    "test-a": "/components/a",
+    "test-b": "/components/b"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "Hi",
+  "navigationBarBackgroundColor": "#F8F8F1",
+  "backgroundColor": "#F8F8F1",
+  "enablePullDownRefresh": true,
+  "backgroundTextStyle": "dark",
+  "usingComponents": {}
+}

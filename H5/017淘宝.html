@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        li {
+            list-style: none;
+        }
+
+        .box {
+            border: 2px solid red;
+            width: 520px;
+            height: 280px;
+            margin: auto;
+            position: relative;
+        }
+
+        image {
+            width: 520px;
+            height: 280px;
+        }
+
+        .prev {
+            background: rgba(0, 0, 0, .3);
+            border-top-right-radius: 50%;
+            border-bottom-right-radius: 50%;
+            position: absolute;
+            top: 50%;
+            margin-top: -15px;
+            left: 0;
+            text-decoration: none;
+            width: 20px;
+            height: 30px;
+            line-height: 30px;
+            text-align: center;
+            color: #fff;
+
+        }
+
+
+        .next {
+            background: rgba(0, 0, 0, .3);
+            border-top-left-radius: 50%;
+            border-bottom-left-radius: 50%;
+            position: absolute;
+            top: 50%;
+            margin-top: -15px;
+            right: 0;
+            text-decoration: none;
+            width: 20px;
+            height: 30px;
+            line-height: 30px;
+            text-align: center;
+            color: #fff;
+        }
+
+        ul {
+            width: 70px;
+            height: 13px;
+            position: absolute;
+            border: 2px solid red;
+            bottom: 10px;
+            left: 50%;
+            margin-left: -35px;
+        }
+
+        li{
+            width: 8px;
+            height: 8px;
+            background-color: #fff;
+            border-radius: 50%;
+            float: left;
+            margin: 3px;
+        }
+
+        .sele{
+            background-color: #1C9982;
+        }
+
+
+    </style>
+</head>
+<body>
+<div class="box">
+    <img src="images/tb.jpg" alt="">
+
+    <a href="" class="prev"><</a>
+    <a href="" class="next">></a>
+    <ul>
+        <li class="sele"></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
+</div>
+</body>
+</html>

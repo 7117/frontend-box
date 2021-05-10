@@ -1,0 +1,1 @@
+<view class="news_detail"><text class="tit">{{detailList.title}}</text><view class="info"><text>{{"发表时间："+detailList.add_time}}</text><text>{{"浏览："+detailList.click}}</text></view><view class="content"><rich-text nodes="{{detailList.content}}"></rich-text></view></view>

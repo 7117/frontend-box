@@ -1,0 +1,21 @@
+
+.abutton {
+	margin-top: 100px;
+}
+.box {
+	width: 100px;
+	height: 100px;
+	background: #DD4A68;
+}
+.box2 {
+	width: 200px;
+	height: 100px;
+	background-color: #48C23D;
+}
+.box-active {
+	background-color: #0062CC;
+}
+.box2-active {
+	background-color: black;
+}
+

@@ -1,0 +1,70 @@
+{
+  "description": "项目配置文件。",
+  "packOptions": {
+    "ignore": []
+  },
+  "setting": {
+    "urlCheck": false
+  },
+  "compileType": "miniprogram",
+  "libVersion": "",
+  "appid": "wx41e6060990d23185",
+  "projectname": "wx41e6060990d23185",
+  "simulatorType": "wechat",
+  "simulatorPluginLibVersion": {},
+  "condition": {
+    "search": {
+      "list": []
+    },
+    "conversation": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pages/message/message",
+          "id": 0,
+          "pathName": "pages/message/message"
+        },
+        {
+          "name": "pages/test/test",
+          "id": 1,
+          "pathName": "pages/test/test"
+        },
+        {
+          "name": "pages/detail/detail",
+          "id": 2,
+          "pathName": "pages/detail/detail"
+        },
+        {
+          "name": "pages/uni-style/uni-style",
+          "id": 3,
+          "pathName": "pages/uni-style/uni-style"
+        },
+        {
+          "name": "pages/home/home",
+          "id": 4,
+          "pathName": "pages/home/home"
+        },
+        {
+          "name": "pages/index/index",
+          "id": 5,
+          "pathName": "pages/index/index"
+        },
+        {
+          "name": "pages/list/list",
+          "id": 6,
+          "pathName": "pages/list/list"
+        },
+        {
+          "name": "pages/navigator/navigator",
+          "id": 7,
+          "pathName": "pages/navigator/navigator"
+        }
+      ]
+    }
+  }
+}

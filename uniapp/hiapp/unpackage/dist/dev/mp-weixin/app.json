@@ -1,0 +1,49 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/message/message",
+    "pages/contact/contact",
+    "pages/detail/detail",
+    "pages/uni-style/uni-style",
+    "pages/home/home",
+    "pages/list/list",
+    "pages/navigator/navigator"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "HiAPP",
+    "navigationBarBackgroundColor": "#F8F8F1",
+    "backgroundColor": "#F8F8F1",
+    "enablePullDownRefresh": true,
+    "backgroundTextStyle": "dark"
+  },
+  "tabBar": {
+    "color": "#007AFF",
+    "selectedColor": "#3CC51F",
+    "backgroundColor": "#DEDEDE",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/message/message",
+        "iconPath": "static/tabs/contact.png",
+        "selectedIconPath": "static/tabs/contact-active.png",
+        "text": "组件"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tabs/contact.png",
+        "selectedIconPath": "static/tabs/contact-active.png",
+        "text": "内容"
+      },
+      {
+        "pagePath": "pages/contact/contact",
+        "iconPath": "static/tabs/contact.png",
+        "selectedIconPath": "static/tabs/contact-active.png",
+        "text": "内容"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap34.json"
+}
