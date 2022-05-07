@@ -1,0 +1,178 @@
+{
+	"pages": [{
+			"path": "pages/home/index",
+			"style": {
+				"navigationBarTitleText": "主页"
+			}
+		},
+		{
+			"path": "pages/horizontal/index",
+			"style": {
+				"navigationBarTitleText": "横屏"
+			}
+		},
+		{
+			"path": "pages/search/index",
+			"style": {
+				"navigationBarTitleText": "搜索"
+			}
+		},
+		{
+			"path": "pages/video/index",
+			"style": {
+				"navigationBarTitleText": "视频"
+			}
+		},
+		{
+			"path": "pages/mine/index",
+			"style": {
+				"navigationBarTitleText": "我的"
+			}
+		}, {
+			"path": "pages/home/home-recommand/index",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/home/home-category/index",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/home/home-new/index",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/home/home-album/index",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		}
+	    ,{
+            "path" : "pages/album/index",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/imgDetail/index",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/demo/index",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/imgCategory/index",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/video/video-main/index",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/video/video-category/index",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/videoPlay/index",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "懂你找图",
+		"navigationBarBackgroundColor": "#000",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#8a8a8a",
+		"selectedColor": "#d4237a",
+		"backgroundColor": "#fff",
+		"position": "bottom",
+		"borderStyle": "black",
+		"list": [{
+				"pagePath": "pages/home/index",
+				"text": "首页",
+				"iconPath": "./static/icon/_home.png",
+				"selectedIconPath": "./static/icon/home.png"
+			},
+			{
+				"pagePath": "pages/horizontal/index",
+				"text": "横屏",
+				"iconPath": "./static/icon/_home.png",
+				"selectedIconPath": "./static/icon/home.png"
+			},
+			{
+				"pagePath": "pages/search/index",
+				"text": "搜索",
+				"iconPath": "./static/icon/_home.png",
+				"selectedIconPath": "./static/icon/home.png"
+			},
+			{
+				"pagePath": "pages/video/index",
+				"text": "视频",
+				"iconPath": "./static/icon/_videocamera.png",
+				"selectedIconPath": "./static/icon/videocamera.png"
+			},
+			{
+				"pagePath": "pages/mine/index",
+				"text": "我的",
+				"iconPath": "./static/icon/_my.png",
+				"selectedIconPath": "./static/icon/my.png"
+			}
+		]
+	},
+	"condition" : { //模式配置，仅开发期间生效
+		"current": 0, //当前激活的模式(list 的索引项)
+		"list": [
+			{
+				"name": "", //模式名称
+				"path": "", //启动页面，必选
+				"query": "" //启动参数，在页面的onLoad函数里面得到
+			}
+		]
+	}
+}
